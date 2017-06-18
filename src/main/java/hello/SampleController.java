@@ -19,7 +19,7 @@ public class SampleController {
     @RequestMapping("/hello")
     public String index() {
         List<String> names = new ArrayList();
-        names.add("Waldek");
+        names.add("Waldek123");
         names.add("Stefan");
         names.add("Zbigniew");
         names.add("Piotr");
